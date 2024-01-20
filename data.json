@@ -1,0 +1,50 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "caution": [
+        {
+          "changes": {
+            "icon": "lucide-alert-octagon",
+            "color": "248, 81, 73"
+          }
+        }
+      ],
+      "warning": [
+        {
+          "changes": {
+            "color": "210, 153, 34"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "color": "163, 113, 247"
+          }
+        }
+      ],
+      "tip": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "86, 203, 96"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
